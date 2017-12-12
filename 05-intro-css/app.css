@@ -1,0 +1,19 @@
+h1 {
+  color: rgba(0, 200, 100, 0.8);
+
+  /*border-color: purple;
+  border-width: 5px;
+  border-style: solid;*/
+
+  border: purple dashed 1px;
+}
+body {
+  background: pink;
+  /*background: url(https://d2jd5cd93sjelr.cloudfront.net/spree/images/34243/large/f2002235-2_2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
+
+h4 {
+  background: rgb(255, 100, 80);
+}
