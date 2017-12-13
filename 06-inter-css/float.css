@@ -1,0 +1,12 @@
+div {
+  width: 100px;
+  float: left;
+}
+
+#one {
+  background: green;
+}
+
+#two {
+  background: yellow;
+}
